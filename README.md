@@ -20,8 +20,8 @@ Tatiana Lenz
 ### Installation
 
 ```bash
-git clone https://github.com/TattyFromMelbourne/react-calculator
-cd react-calculator
+git clone https://github.com/kozlovv529/kozlov-react-calculator
+cd kozlov-react-calculator
 npm install
 ```
 
